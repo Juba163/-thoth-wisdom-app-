@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- لوحة الألوان الأساسية -->
+    <color name="primary">#1E2756</color>           <!-- أزرق داكن - يرمز للعمق والتأمل -->
+    <color name="primary_variant">#121836</color>   <!-- أزرق داكن أكثر -->
+    <color name="secondary">#D4B483</color>         <!-- ذهبي فاتح - يرمز للمعرفة والإشراق -->
+    <color name="secondary_variant">#C09B63</color> <!-- ذهبي داكن -->
+    <color name="accent">#26A69A</color>            <!-- فيروزي - يرمز للحكمة المصرية القديمة -->
+    
+    <!-- خلفيات -->
+    <color name="background">#121420</color>        <!-- أسود مائل للأزرق - يوفر راحة للعين -->
+    <color name="surface">#1D1E2C</color>           <!-- رمادي داكن مائل للأزرق -->
+    <color name="dialog_background">#252636</color> <!-- رمادي داكن أفتح قليلاً -->
+    
+    <!-- نصوص -->
+    <color name="on_primary">#FFFFFF</color>        <!-- أبيض للنص على الخلفية الأساسية -->
+    <color name="on_secondary">#000000</color>      <!-- أسود للنص على الخلفية الثانوية -->
+    <color name="on_background">#E6E6E8</color>     <!-- أبيض مائل للرمادي - سهل القراءة على الخلفية الداكنة -->
+    <color name="on_surface">#E6E6E8</color>        <!-- أبيض مائل للرمادي -->
+    <color name="on_error">#FFFFFF</color>          <!-- أبيض للنص على خلفية الخطأ -->
+    
+    <!-- حالات خاصة -->
+    <color name="error">#CF6679</color>             <!-- أحمر وردي للأخطاء -->
+    <color name="success">#4CAF50</color>           <!-- أخضر للنجاح -->
+    <color name="info">#2196F3</color>              <!-- أزرق للمعلومات -->
+    <color name="warning">#FFC107</color>           <!-- أصفر للتحذيرات -->
+    
+    <!-- ألوان إضافية -->
+    <color name="divider">#2F3042</color>           <!-- فاصل بين العناصر -->
+    <color name="ripple">#33D4B483</color>          <!-- تأثير النقر (20% شفافية من اللون الثانوي) -->
+    <color name="scrim">#52000000</color>           <!-- طبقة شبه شفافة للخلفية -->
+    <color name="overlay">#80121420</color>         <!-- طبقة فوق الصور -->
+    
+    <!-- ألوان الحالة -->
+    <color name="status_bar">#121420</color>        <!-- لون شريط الحالة -->
+    <color name="nav_bar">#121420</color>           <!-- لون شريط التنقل -->
+</resources>

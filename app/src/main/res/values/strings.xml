@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تحوت الحكيم</string>
+    
+    <!-- الشاشة الرئيسية -->
+    <string name="search_hint">اطرح سؤالاً فلسفياً...</string>
+    <string name="add_data">إضافة بيانات جديدة</string>
+    <string name="suggested_questions">أسئلة مقترحة</string>
+    <string name="previous_questions">الأسئلة السابقة</string>
+    <string name="logic">المنطق</string>
+    <string name="epistemology">نظرية المعرفة</string>
+    <string name="ethics">الأخلاق</string>
+    <string name="metaphysics">الميتافيزيقا</string>
+    
+    <!-- شاشة الإجابة -->
+    <string name="sources">المصادر</string>
+    <string name="save">حفظ</string>
+    <string name="share">مشاركة</string>
+    <string name="rate">تقييم</string>
+    <string name="related_questions">أسئلة ذات صلة</string>
+    
+    <!-- شاشة إضافة البيانات -->
+    <string name="add_new_data">إضافة بيانات جديدة</string>
+    <string name="drag_drop_files">اسحب الملفات هنا أو انقر للاختيار</string>
+    <string name="word">Word</string>
+    <string name="pdf">PDF</string>
+    <string name="image">صورة</string>
+    <string name="link">رابط</string>
+    <string name="enter_url">أدخل رابط الموقع...</string>
+    <string name="selected_files">الملفات المختارة</string>
+    <string name="uploading">جاري الرفع...</string>
+    <string name="upload_data">رفع البيانات</string>
+    
+    <!-- القائمة الجانبية -->
+    <string name="profile">الملف الشخصي</string>
+    <string name="favorites">المفضلة</string>
+    <string name="my_data">بياناتي</string>
+    <string name="files">الملفات</string>
+    <string name="links">الروابط</string>
+    <string name="statistics">الإحصائيات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="display_mode">وضع الإضاءة</string>
+    <string name="about">حول التطبيق</string>
+    
+    <!-- شاشة بياناتي -->
+    <string name="uploaded_files">الملفات المرفوعة</string>
+    <string name="upload_date">تاريخ الرفع</string>
+    <string name="file_size">الحجم</string>
+    <string name="view">عرض</string>
+    <string name="delete">حذف</string>
+    <string name="total_files">إجمالي الملفات</string>
+    <string name="total_size">إجمالي الحجم</string>
+    <string name="add_new_files">إضافة ملفات جديدة</string>
+    
+    <!-- شاشة عرض الملف -->
+    <string name="file_info">معلومات الملف</string>
+    <string name="file_type">النوع</string>
+    <string name="extracted_content">المحتوى المستخرج</string>
+    <string name="keywords">الكلمات المفتاحية</string>
+    <string name="related_questions_file">الأسئلة المرتبطة</string>
+    <string name="download_file">تحميل الملف</string>
+    
+    <!-- رسائل -->
+    <string name="loading">جاري التحميل...</string>
+    <string name="error_loading">حدث خطأ أثناء التحميل</string>
+    <string name="success_upload">تم رفع الملفات بنجاح</string>
+    <string name="error_upload">حدث خطأ أثناء رفع الملفات</string>
+    <string name="confirm_delete">هل أنت متأكد من حذف هذا الملف؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="retry">إعادة المحاولة</string>
+    
+    <!-- الإعدادات -->
+    <string name="arabic">العربية</string>
+    <string name="english">الإنجليزية</string>
+    <string name="small">صغير</string>
+    <string name="medium">متوسط</string>
+    <string name="large">كبير</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="light_mode">الوضع الفاتح</string>
+    <string name="system_default">إعدادات النظام</string>
+    
+    <!-- حول التطبيق -->
+    <string name="app_description">تطبيق "تحوت الحكيم" هو نموذج لغوي متخصص في علم الفلسفة بكافة فروعها والمنطق ونظرية المعرفة القديمة والحديثة والمعاصرة.</string>
+    <string name="app_version">الإصدار 1.0</string>
+</resources>
